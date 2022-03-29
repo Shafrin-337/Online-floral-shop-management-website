@@ -1,0 +1,2 @@
+# Online-floral-shop-management-website
+The online floral shop management system is a website for the management purposes of different tasks that are involved in a floral shop. Using this website, we can help users to pick up their own choice of floral products through online and the admin can organize the products and customer information in a database. This project is done on the ASP.NET platform with C# in the backend and HTML, CSS, JavaScript in the frontend development. All the database regarding this project has been integrated and managed using Microsoft SQL server
